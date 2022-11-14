@@ -1,0 +1,5 @@
+username: lomadegato0908@gmail.com
+
+password: admin123
+
+just search http://localhost/bulacan/login.php
